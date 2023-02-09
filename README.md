@@ -1,6 +1,6 @@
-# samepage
+# Pinterest UI
 
-A new Flutter project.
+Flutter Sample Project.
 
 ## Getting Started
 
