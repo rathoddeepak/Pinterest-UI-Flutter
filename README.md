@@ -2,4 +2,4 @@
 
 Flutter Sample Project.
 
-<img src="https://i.ibb.co/RH1d34Q/ui.png" height="500" />
+<img src="https://github.com/rathoddeepak/Pinterest-UI-Flutter/blob/main/assets/ui.png?raw=true" height="500" />
